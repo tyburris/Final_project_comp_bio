@@ -1,0 +1,231 @@
+species_valid_name	species_code	collection_period	collection_era	collection_site_individuals	collection_site_lot	site_id	match_id	num_records
+Siganus_spinus	Ssp	Albatross	Albatross	Atulayan_Bay	Atulayan_Bay	Atu	AtuB	48
+Encrasicholina_pseudoheteroloba	Eps	Albatross	Albatross	Bais_Bay	Bais_Bay_Anchorage	Bai	Bais	100
+Encrasicholina_pseudoheteroloba	Eps	Contemporary	Contemporary	Bais_Bay	Bais_Bay	Bai	Bais	100
+Siganus_fuscescens	Sfu	Albatross	Albatross	Bais_Bay	Bais_Bay_Anchorage	Bai	Bais	117
+Siganus_fuscescens	Sfu	Contemporary	Contemporary	Bais_Bay	Bais_Bay	Bai	Bais	104
+Chromis_viridis	Cvi	Albatross	Albatross	NA	Port_Palapag	Pal	Bali	40
+Pomacentrus_brachialis	Pba	Contemporary	Contemporary	NA	Biri, Northern Samar	Cab	Bali	31
+Pomacentrus_brachialis	Pba	Contemporary	Contemporary	NA	Cabacungan,_Allen,_Northern_Samar	Cab	Bali	66
+Pomacentrus_brachialis	Pba	NA	Albatross	NA	Port_Palapag	Pal	Bali	10
+Sphaeramia_nematoptera	NA	Albatross	Albatross	Biri_Channel	Biri_Channel	Bir	Bali	28
+Sphaeramia_nematoptera	NA	Contemporary	Contemporary	NA	Biri, Northern Samar	Cab	Bali	81
+Sphaeramia_nematoptera	NA	Contemporary	Contemporary	NA	Cabacungan,_Allen,_Northern_Samar	Cab	Bali	15
+Spratelloides_delicatulus	Sde	Contemporary	Contemporary	Lamitan_Fish_Market,_Basilan	Lamitan_Fish_Market,_Basilan	Ban	Basi	36
+Spratelloides_delicatulus	Sde	Albatross	Albatross	Sacol_Island, Tawi-Tawi_North	Sacol_Island_(tawi_tawi_north)	Sac	Basi	96
+Gazza_minuta	Gmi	Albatross	Albatross	Basud_River	Basud_River	Bas	Basu	61
+Gazza_minuta	Gmi	Contemporary	Contemporary	Mercedes_Fish_Landing	Mercedes_Fishing_Port	Bas	Basu	35
+Gazza_minuta	Gmi	Contemporary	Contemporary	Vinzons_Public_Market	Vinzons_Public_Market	Vin	Basu	61
+Salarias_fasciatus	Sfa	Albatross	Albatross	Basud_River	Basud_River	Bas	Basu	36
+Salarias_fasciatus	Sfa	Contemporary	Contemporary	Manguisoc	Mercedes_Manguisoc	Bas	Basu	96
+Sphyraena_obtusata	Sob	Albatross	Albatross	Bilan_Bilan,_Surigao	Surigao	Bil	Bila	52
+Glossogobius_giuris	Ggi	Albatross	Albatross	Bito_River	Abuyog	Bit	Bito	4
+Taeniamia zosterophora	NA	Albatross	Albatross	Mantatao_Id	Mantatao_Id	Mta	Boho	32
+Taeniamia_zosterophora	Tzo	Contemporary	Contemporary	Mantatao_Id	Mantatao_Id	Mta	Boho	96
+Pomacentrus_brachialis	Pba	Contemporary	Contemporary	NA	Port_Busin	Mas	Buri	25
+Atherinomorus_duodecimalis	NA	Albatross	Albatross	Port_Caltom	Port_Caltom	Bus	Busu	23
+Atherinomorus_endrachtensis	Aen	Albatross	Albatross	Port_Caltom	Port_Caltom	Bus	Busu	1
+Ambassis_urotaenia	Aur	Contemporary	Contemporary	Ragay_Gulf	Sorsogon_Bay	Rag	CanB	96
+Hypoatherina_temminckii	Hte	Albatross	Albatross	Port_Busin	Port_Busin	Bur	CanB	96
+Hypoatherina_temminckii	Hte	Contemporary	Contemporary	Port_Busin	Port_Busin	Bur	CanB	96
+Ostorhinchus_chrysopomus	Och	Contemporary	Contemporary	NA	Port_Busin	Bur	CanB	96
+Ostorhinchus_chrysopomus	Och	NA	Albatross	Canmahala_Bay	Canmahala_Bay	Can	CanB	24
+Sphaeramia_orbicularis	NA	Albatross	Albatross	Port_Busin	Port_Busin	Bur	CanB	16
+Sphaeramia_orbicularis	NA	Contemporary	Contemporary	Port_Busin	Port_Busin	Bur	CanB	96
+Sphaeramia_orbicularis	NA	Albatross	Albatross	Canmahala_Bay	Canmahala_Bay	Can	CanB	55
+Sphaeramia_orbicularis	NA	Albatross	Albatross	Ragay_Gulf	Canmahala_Bay	Can	CanB	4
+Gerres_macracanthus	Gma	Albatross	Albatross	NA	Catbalogan	Cat	Catb	34
+Gerres_macracanthus	Gma	NA	Contemporary	NA	Catbalogan	Cat	Catb	96
+Ostorhinchus_chrysopomus	Och	Albatross	Albatross	Catbalogan	Catbalogan	Cat	Catb	41
+Ostorhinchus_chrysopomus	Och	Contemporary	Contemporary	NA	Catbalogan	Cat	Catb	102
+Halichoeres_miniatus	Hmi	Albatross	Albatross	Basud_River	Basud_River	Bas	Daet	47
+Halichoeres_miniatus	Hmi	Contemporary	Contemporary	Basud_River	Basud_River	Bas	Daet	48
+Halichoeres_miniatus	Hmi	Albatross	Albatross	Maculabo_Id.	Maculabo_Id	Mac	Daet	52
+Halichoeres_miniatus	Hmi	Contemporary	Contemporary	Paracale	Paracale_Pulangdaga_Beach	Par	Daet	48
+Spratelloides_delicatulus	Sde	NA	Albatross	NA	Inamucan_Bay	Ina	Dapi	64
+Ambassis_buruensis	Abu	Albatross	Albatross	Port_Dupon	Dupon_Bay	Dup	Dupo	42
+Zenarchopterus_dispar	NA	Albatross	Albatross	Dupon_Bay	Dupon_Bay	Dup	Dupo	47
+Atherinomorus_duodecimalis	NA	Albatross	Albatross	Guijulugan_Beach	Bais_Bay_Anchorage	Bai	Guij	11
+Atherinomorus_duodecimalis	NA	Albatross	Albatross	Guijulugan_Beach	Guijulugan_Beach	Gui	Guij	38
+Atherinomorus_duodecimalis	NA	Contemporary	Contemporary	Guijulugan_Beach	Guijulugan_Beach	Gui	Guij	96
+Spratelloides_delicatulus	Sde	Albatross	Albatross	Guijulugan_Beach	Guijulugan_Beach	Gui	Guij	35
+Spratelloides_delicatulus	Sde	Contemporary	Contemporary	Vallehermoso	Vallehermoso	Val	Guij	96
+Atherinomorus_duodecimalis	NA	Albatross	Albatross	Hamilo_Cove	Jamelo_Cove	Ham	HamC	96
+Atherinomorus_duodecimalis	NA	Contemporary	Contemporary	Hamilo_Cove	Jamelo_Cove	Ham	HamC	96
+Atherinomorus_endrachtensis	Aen	Albatross	Albatross	Hamilo_Cove	Jamelo_Cove	Ham	HamC	60
+Equulites_leuciscus	Lle	Albatross	Albatross	Hamilo_Cove	Jamelo_Cove	Ham	HamC	32
+Equulites_leuciscus	Lle	Contemporary	Contemporary	Nasugbu	Nasugbu	Nas	HamC	96
+Gazza_minuta	Gmi	Albatross	Contemporary	Nasugbu	Jamelo_Cove	Bat	HamC	96
+Gazza_minuta	Gmi	Albatross	Albatross	Hamilo_Cove	Jamelo_Cove	Ham	HamC	96
+Ambassis_vaivasensis	NA	Albatross	Albatross	Hinunangan	Hinunangan_Bay	Hin	Hinu	64
+Dascyllus_aruanus	NA	Albartoss	Albatross	NA	Jolo_Island	Jol	Jolo	23
+Dascyllus_aruanus	NA	Contemporary	Contemporary	Jolo_Island	Jolo_Island	Jol	Jolo	8
+Dascyllus_aruanus	NA	NA	Contemporary	NA	Jolo_Island	Jol	Jolo	88
+Hypoatherina_temminckii	Hte	Albatross	Albatross	Jolo	Jolo_Island	Jol	Jolo	96
+Plotosis_lineatus	NA	NA	Albatross	NA	Tutu_Bay	Jol	Jolo	16
+Plotosus lineatus	NA	Contemporary	Contemporary	NA	Jolo	Jol	Jolo	96
+Spratelloides_delicatulus	Sde	Albatross	Albatross	Bulan_Island	Bulan_Island	Bul	Jolo	96
+Spratelloides_delicatulus	Sde	Contemporary	Contemporary	Jolo	Panglima_Tahil,_Jolo	Jol	Jolo	96
+Spratelloides_gracilis	Sgr	Albatross	Albatross	Tutu_Bay	Tutu_Bay	Jol	Jolo	96
+Spratelloides_gracillis	NA	Contemporary	Contemporary	Panglima_Tahil,_Jolo	Panglima_Tahil,_Jolo	Jol	Jolo	96
+Atherinomorus_duodecimalis	NA	Albatross	Albatross	Malcochin_Harbor	Malcochin_Harbor	Lin	Lina	16
+Atherinomorus_endrachtensis	Aen	Albatross	Albatross	Malcochin_Harbor	Malcochin_Harbor	Lin	Lina	8
+Leiognathus_equula	Leq	Albatross	Albatross	Malcochin_Harbor	Malcochin_Harbor	Lin	Lina	32
+Atherinomorus_duodecimalis	NA	Contemporary	Contemporary	NA	Malampaya, Palawan	Mal	Mala	96
+Spratelloides_delicatulus	Sde	Albatross	Albatross	Bolalo_Bay	Bolalo_Bay	Bol	Mala	96
+Spratelloides_delicatulus	Sde	Contemporary	Contemporary	Malampaya	Malampaya, Palawan	Mal	Mala	69
+Leiognathus_leuciscus	NA	Albatross	Albatross	Mantaguin_Bay	Mantaguin_Bay	Mnt	Mant	50
+Atherinomorus_endrachtensis	Aen	Albatross	Albatross	Port_Matalvi_reef_Masinloc	Port_Matalvi_reef	Mvi	Masi	3
+Herklotsichithys_quadrimaculatus	NA	Contemporary	Contemporary	Mansiloc_Public_Market	Masinloc_Public_Market	Mvi	Masi	37
+Herklotsichthys_quadrimaculatus	Hqu	Albatross	Albatross	Port_Matalvi	Port_Matalvi_reef	Mvi	Masi	59
+Hypoatherina_temminckii	Hte	Albatross	Albatross	Port_Matalvi_reef	Port_Matalvi_reef	Mvi	Masi	14
+Hypoatherina_temminckii	Hte	Albatross	Albatross	Port_Matalvi_reef_Masinloc	Port_Matalvi_reef	Mvi	Masi	47
+Hypoatherina_temminckii	Hte	Contemporary	Contemporary	Mansiloc_Public_Market	Masinloc_Public_Market	Mvi	Masi	96
+Plotosus lineatus	NA	NA	Albatross	Luzon	Port_Matalvi_reef	Mvi	Masi	96
+Plotosus_lineatus	Pli	Albatross	Albatross	Port_Matalvi_reef	Port_Matalvi_reef	Mvi	Masi	3
+Spratelloides_gracilis	Sgr	Albatross	Albatross	Port_Matalvi_reef_Masinloc	Port_Matalvi_reef	Mvi	Masi	96
+Spratelloides_gracilis	Sgr	Contemporary	Contemporary	Masinloc_Public_Market	Masinloc_Public_Market	Mvi	Masi	96
+Taeniamia_zosterophora	Tzo	Albatross	Albatross	Port_Matalvi_reef_Masinloc	Port_Matalvi_reef	Mvi	Masi	48
+Taeniamia_zosterophora	Tzo	Contemporary	Contemporary	Masinloc_Public_Market	Masinloc_Bay_South_Poblacion	Mvi	Masi	96
+Atherinomorus_duodecimalis	NA	Albatross	Albatross	Matnog_Bay	Matnog_Bay	Mat	MatB	79
+Atherinomorus_duodecimalis	NA	Contemporary	Contemporary	Matnog_Bay	Matnog_Bay	Mat	MatB	96
+Atherinomorus_endractensis	NA	Albatross	Albatross	Matnog_Bay	Matnog_Bay	Mat	MatB	4
+Hypoatherina	NA	Albatross	Albatross	Matnog_Bay	Matnog_Bay	Mat	MatB	7
+Hypoatherina_panatela	NA	Albatross	Albatross	Ticao_Pass	Port_San_Miguel	Tic	MatB	93
+Hypoatherina_temminckii	Hte	Albatross	Albatross	Matnog_Bay	Matnog_Bay	Mat	MatB	4
+Hypoatherina_temminckii	Hte	Albatross	Albatross	Ticao_Pass	Port_San_Miguel	Tic	MatB	3
+Hypoatherina_temminckii	Hte	Albatross	Contemporary	Ticao_Pass	Bulan - Ticao_Pass	Tic	MatB	96
+Sprataloides_delicatulus	NA	Contemporary	Contemporary	Bulan	Bulan	Mat	MatB	96
+Spratelloides_delicatulus	Sde	Albatross	Albatross	Matnog_Bay	Matnog_Bay	Mat	MatB	96
+Atherinomorus duodecimalis	NA	Albatross	Albatross	NA	Mantaguin_Bay	Mtg	Narr	96
+Herklotsichthys_quadrimaculatus	Hqu	Albatross	Albatross	Nasugbu	Nasugbu	Nas	Nasu	33
+Dipterygonotus_balteatus	Dba	Contemporary	Contemporary	Kalibo_Public_Market	Kalibo_Public_Market	Kal	None	30
+Encrasicholina_punctifer	Epu	Contemporary	Contemporary	Bais_Bay	Bais_Bay_Anchorage	Bai	None	100
+Hypoatherina_temminckii	Hte	Contemporary	Contemporary	Hamilo_Cove	Hamilo_Cove	Ham	None	96
+Plotosus_lineatus	Pli	Contemporary	Contemporary	Dumaguete	Silliman_Beach	Dgt	None	42
+Plotosus_lineatus	Pli	Contemporary	Contemporary	Siquijor	Siquijor	Siq	None	40
+Siganus_fuscescens	Sfu	Contemporary	Contemporary	Mercedes_Fishing_Port	Mercedes_Fishing_Port	Bas	None	16
+Siganus_fuscescens	Sfu	Contemporary	Contemporary	Mercedes_Fishing_Port	Mercedes_Fishing_Port	Mig	None	20
+Siganus_fuscescens	Sfu	Contemporary	Contemporary	Sipalay	Sipalay_Negros	Sip	None	10
+Sphyraena_obtusata	Sob	Contemporary	Contemporary	Dumaguete	Dumaguete	Dgt	None	116
+Sphyraena_obtusata	Sob	Contemporary	Contemporary	Kalibo	Kalibo_Public_Market	Kal	None	30
+Ambassis_vaivasensis	NA	Albatross	Albatross	Camp_Overton	Camp_Overton	Ove	Over	36
+Ambassis_urotaenia	Aur	Albatross	Albatross	Panabutan_Bay	Island_off_Panabutan_Point	Pnb	Pana	26
+Ambassis buruensis	NA	Albatross	Albatross	Cebu_Market	Cebu_Market	Ceb	Pand	55
+Ambassis_buruensis	Abu	Contemporary	Contemporary	Pandanan_Id	Pandanon_Id	Pnd	Pand	96
+Corycoichthys_haematopterus	NA	Albatross	Albatross	Pandanon_Id	Mactan_Id	Pnd	Pand	8
+Corycoichthys_haematopterus	NA	Albatross	Albatross	Pandanon_Id	Pandanon_Id	Pnd	Pand	33
+Corythoichthys_haematopterus	NA	Contemporary	Contemporary	Pandanon_Island	Pandanon_Id	Pnd	Pand	86
+Gerres_oyena	Goy	Albatross	Albatross	Mantacao_Id	Mantacao_Id	Pnd	Pand	13
+Gerres_oyena	Goy	Albatross	Albatross	Pandanon_Id	Pandanon_Id	Pnd	Pand	54
+Gerres_oyena	Goy	Contemporary	Contemporary	Pandanon_Id	Pandanon_Id	Pnd	Pand	96
+Hypoatherina_temminckii	Hte	Albatross	Albatross	Pandanon_Id	Pandanon_Id	Pnd	Pand	32
+Hypoatherina_temminckii	Hte	Contemporary	Contemporary	Pandanon_Id	Pandanon_Id	Pnd	Pand	96
+Lethrinus_variegatus	NA	Albatross	Albatross	Pandanan_Id	Pandanon_Id	Pnd	Pand	47
+Lethrinus_variegatus	NA	Contemporary	Contemporary	Pandanon_Id	Babag_Market-_from_Cuaming_Island-_Bohol	Pnd	Pand	9
+Lethrinus_variegatus	NA	Contemporary	Contemporary	Pandanon_Id	Pandanon_Id	Pnd	Pand	48
+Pomacentrus_pavo	NA	Albatross	Albatross	Pandanon_Id	Pandanon_Id	Pnd	Pand	23
+Pomacentrus_pavo	NA	Contemporary	Contemporary	Pandanan_Id	Pandanon_Id	Pnd	Pand	38
+Pomacentrus_pavo	NA	Contemporary	Contemporary	Pandanon_Id	Babag_Market-_from_Cuaming_Island-_Bohol	Pnd	Pand	5
+Sphaeramia_orbicularis	NA	Albatross	Albatross	Cebu_Market	Cebu_Market	Ceb	Pand	22
+Spharaemia_orbicularis	NA	Contemporary	Contemporary	Pandanan_Id	Pandanon_Id	Pnd	Pand	72
+Sphyraena obtusata	NA	Albatross	Albatross	Pandanon_Id	Pandanon_Id	Pnd	Pand	96
+Sphyraena obtusata	NA	Contemporary	Contemporary	Pandanon_Id	Pandanon_Id	Pnd	Pand	96
+Atherinomorus_duodecimalis	NA	Albatross	Albatross	Puerto_Galera	Port_Galera	Bat	PGal	24
+Atherinomorus_duodecimalis	NA	Contemporary	Contemporary	Puerto_Galera	Varadero_Bay	Gal	PGal	96
+Atherinomorus_duodecimalis/A. endrac?	NA	Albatross	Albatross	Puerto_Galera	Varadero_Bay	Gal	PGal	41
+Dipterygonotus_balteatus	Dba	Albatross	Albatross	Puerto_Galera	Varadero_Bay	Gal	PGal	4
+Hypoatherina_temminckii	Hte	Albatross	Albatross	Puerto_Galera	Port_Galera	Gal	PGal	96
+Parupeneus_barberinus	Pbb	Albatross	Albatross	NA	Port_Galera	Gal	PGal	4
+Parupeneus_barberinus	Pbb	Contemporary	Contemporary	Verde Island	Verde_Island	Gal	PGal	36
+Parupeneus_barberinus	Pbb	Contemporary	Contemporary	Verde_Island	Verde_Island	Gal	PGal	8
+Parupeneus_barberinus	Pbb	Contemporary	Contemporary	NA	Verde_Island	Gal	PGal	36
+Pomacentrus_brachialis	Pba	Albatross	Albatross	Puerto_Galera	Port_Galera	Gal	PGal	12
+Pomacentrus_brachialis	Pba	Albatross	Albatross	Puerto_Galera	Varadero_Bay	Gal	PGal	8
+Pomacentrus_brachialis	Pba	Albatross	Albatross	Maricaban_Is	Port_Maricaban	Mar	PGal	12
+Pomacentrus_brachialis	Pba	Contemporary	Contemporary	NA	Verde_Island	Ver	PGal	96
+Pseudanthias_squamipinnis	Psq	Albatross	Albatross	Puerto_Galera	Port_Galera	Gal	PGal	96
+Pseudanthias_squamipinnis	Psq	Contemporary	Contemporary	Verde_Island	Verde_Island	Gal	PGal	8
+Siganus_fuscescens	Sfu	NA	Albatross	Point_Galera	Port_Galera	Gal	PGal	11
+Siganus_fuscescens	Sfu	Contemporary	Contemporary	Verde_Island	Verde_Island	Gal	PGal	41
+Sprataloides_delicatulus	NA	Contemporary	Contemporary	Hamilo_Cove	Jamelo_Cove	Ham	PMar	96
+Sprataloides_delicatulus	NA	Albatross	Albatross	Port_Maricaban	Port_Maricaban	Mar	PMar	67
+Ambassis_vaivasensis	NA	Albatross	Albatross	Puerto_Princessa	Puerta_Princesa	Pri	PPri	32
+Ambassis_buruensis	Abu	Contemporary	Contemporary	Pasacao	Pasacao	Pas	RagR	96
+Ambassis_buruensis	Abu	Albatross	Albatross	Ragay_River	Ragay_River	Rag	RagR	37
+Ambassis_urotaenia	Aur	Contemporary	Contemporary	Pasacao	Pasacao	Pas	RagR	23
+Ambassis_urotaenia	Aur	Albatross	Albatross	Ragay_Gulf	Canmahala_Bay	Rag	RagR	49
+Gerres_macracanthus	Gma	Contemporary	Contemporary	Pasacao	Pasacao	Pas	RagR	8
+Gerres_macracanthus	Gma	Albatross	Albatross	NA	Ragay_River	Rag	RagR	29
+Gerres_macracanthus	Gma	Contemporary	Contemporary	Liboro_Market	Liboro_Market	Rag	RagR	1
+Gerres_macracanthus	Gma	Contemporary	Contemporary	Ragay	Ragay	Rag	RagR	8
+Gerres_macracanthus	Gma	NA	Contemporary	NA	Ragay	Rag	RagR	43
+Gerres_oyena	Goy	Contemporary	Contemporary	Pasacao	Pasacao	Pas	RagR	99
+Gerres_oyena	Goy	Albatross	Albatross	Ragay_River	Ragay_River	Rag	RagR	32
+Periophthalmus_argentilineatus	Par	Contemporary	Contemporary	Pasacao	Pasacao	Pas	RagR	87
+Periophthalmus_argentilineatus	Par	Albatross	Albatross	Ragay_River	Ragay_River	Rag	RagR	30
+Gerres oyena	NA	Contemporary	Contemporary	NA	Sitio_Agbuyog	Rom	Romb	96
+Gerres_oyena	Goy	Albatross	Albatross	Romblon_Harbor	Romblon_Harbor	Rom	Romb	19
+Plotosis_lineatus	NA	NA	Albatross	NA	Romblon_Harbor	Rom	Romb	19
+Plotosus lineatus	NA	Contemporary	Contemporary	NA	Sitio_Agbuyog	Rom	Romb	96
+Pomacentrus_brachialis	Pba	NA	Albatross	NA	Romblon_Harbor	Rom	Romb	1
+Pomacentrus_brachialis	Pba	Contemporary	Contemporary	NA	Sitio_Agbuyog	Rom	Romb	95
+Sphaeramia_nematoptera	NA	Albatross	Albatross	Romblon_Harbor	Romblon_Harbor	Rom	Romb	44
+Sphaeramia_nematoptera	NA	Contemporary	Contemporary	Romblon	Sitio_Agbuyog	Rom	Romb	94
+Taeniamia_biguttata	Tbi	Contemporary	Contemporary	San_Jose	San_Jose	Jos	Rosa	96
+Taeniamia_biguttata	Tbi	Albatross	Albatross	Rosa_Id	Rosa_Id	Ros	Rosa	33
+Spratelloides_gracilis	Sgr	Contemporary	Contemporary	NA	Biri, Northern Samar	Bir	Samr	96
+Spratelloides_gracilis	Sgr	Contemporary	Contemporary	Masbate_City_Fish_Market	Masbate_City_Fish_Market	Mas	Samr	96
+Spratelloides_gracilis	Sgr	Albatross	Albatross	Port_Palapag	Port_Palapag	Pal	Samr	47
+Ambassis_urotaenia	Aur	Contemporary	Contemporary	Hamilo_Cove	Jamilo_Cove	Ham	SanR	96
+Ambassis_urotaenia	Aur	Albatross	Albatross	Santiago_River	Santiago_River	Pag	SanR	42
+Leiognathus_equula	Leq	Albatross	Albatross	Basud_River	Basud_River	Bas	SMig	59
+Leiognathus_equula	Leq	Contemporary	Contemporary	San_Miguel_Bay	San_Miguel_Bay	Mig	SMig	96
+Atherinomorus_duodecimalis	NA	Albatross	Albatross	Olongapo	Olongapo	Sub	SubB	68
+Atherinomorus_duodecimalis	NA	Contemporary	Contemporary	Subic_City_Municipal_Fish_Port	Subic_City_Municipal_Fish_Port	Sub	SubB	96
+Spratelloides_delicatulus	Sde	Albatross	Albatross	Grande_Island	Grande_Island	Sub	SubB	26
+Spratelloides_delicatulus	Sde	Contemporary	Contemporary	Silanguin	Silanguin	Sub	SubB	96
+Spratelloides_gracilis	Sgr	NA	Albatross	NA	Surigao	Sur	Suri	56
+Atherinomorus_duodecimalis	NA	Albatross	Albatross	Tagbilaran_Channel	Tagbilaran_Channel	Tag	Tagb	40
+Atherinomorus_duodecimalis	NA	Contemporary	Contemporary	Tagbilaran	Tagbilaran	Tag	Tagb	96
+Pomacentrus_brachialis	Pba	Albatross	Albatross	NA	Tataan_Pass_Anchorage	Tat	Tata	21
+Pomacentrus_brachialis	Pba	Contemporary	Contemporary	Mandulan_Tawi-Tawi	Mandulan_Tawi-Tawi	Tat	Tata	96
+Atherinomorus_duodecimalis	NA	Albatross	Albatross	Dos_Amigos_Bay	Dos_Amigos_Bay	Taw	Tawi	46
+Atherinomorus_duodecimalis	NA	Albatross	Albatross	Tataan_Pass_Anchorage	Tataan_Pass_Anchorage	Taw	Tawi	25
+Atherinomorus_duodecimalis	NA	Contemporary	Contemporary	Bongao_Channel	Bongao_Channel	Taw	Tawi	96
+Hypoatherina_temminckii	Hte	Albatross	Albatross	Tataan_Pass	Tataan_Pass_Anchorage	Taw	Tawi	78
+Hypoatherina_temminckii	Hte	Contemporary	Contemporary	Tataan_Pass	Tataan_Pass	Taw	Tawi	96
+Sphaeramia_nematoptera	NA	Albatross	Albatross	Simaluc_Island_Tawi_Tawi	Tataan_Pass_Anchorage	Taw	Tawi	27
+Sphaeramia_nematoptera	NA	Contemporary	Contemporary	Tawi_Tawi	Bongao_Channel	Taw	Tawi	68
+Sphaeramia_nematoptera	NA	Contemporary	Contemporary	Tawi_Tawi	Bongao_Fish_Market,_Tawi-Tawi	Taw	Tawi	28
+Spratelloides_delicatulus	Sde	Contemporary	Contemporary	NA	Taytay,  Palawan	Tay	TayT	96
+Ostorhinchus_chrysopomus	Och	Albatross	Albatross	Tumindao_Island	Tumindao	Tum	Tumi	36
+Ostorhinchus_chrysopomus	Och	Contemporary	Contemporary	Tumindao	Tumindao_Channel	Tum	Tumi	51
+Spratelloides_delicatulus	Sde	Albatross	Albatross	Tumindao	Tumindao	Tum	Tumi	48
+Spratelloides_delicatulus	Sde	Contemporary	Contemporary	Simunul_Id_Sibutu_Channel	Simunul_Id_Sibutu_Channel	Tum	Tumi	96
+Ambassis_urotaenia	Aur	Albatross	Albatross	Port_San_Vicente	Port_San_Vicente	Vic	Vice	45
+Atherinomorus_duodecimalis	NA	Contemporary	NA	NA	NA	NA	NA	96
+Atherinomorus_endrachtensis	Aen	Contemporary	NA	Batangas_Bay	NA	NA	NA	96
+Chromis_viridis	Cvi	Contemporary	Contemporary	NA	Biri, Northern Samar	Bir	NA	96
+Corythoichthys_haematopterus	NA	Contemporary	Contemporary	Pandanon_Island	Pandanon_Id	Pnd	NA	86
+Gerres oyena	NA	Albatross	NA	NA	NA	NA	NA	75
+Gerres_oyena	Goy	Contemporary	Contemporary	NA	Ragay	NA	NA	45
+Herklotsichthys_quadrimaculatus	Hqu	Contemporary	NA	Nasugbu	NA	NA	NA	55
+Hypoatherina_temminckii	Hte	Contemporary	NA	Jolo_Island	NA	NA	NA	96
+N/A	NA	N/A	NA	N/A	NA	NA	NA	1
+NA	NA	NA	NA	NA	NA	NA	NA	2
+Parupeneus_barberinus	Pbb	Albatross	NA	NA	NA	NA	NA	33
+Plotosus_lineatus	Pli	Contemporary	NA	Dumaguete	NA	NA	NA	11
+Plotosus_lineatus	Pli	Contemporary	NA	Masinloc_Public_Market	NA	NA	NA	96
+Pomacentrus_brachialis	Pba	Albatross	NA	Maricaban_Is	NA	NA	NA	2
+Pomacentrus_brachialis	Pba	Albatross	NA	NA	NA	NA	NA	70
+Pomacentrus_brachialis	Pba	NA	NA	NA	NA	NA	NA	24
+Siganus_spinus	Ssp	Contemporary	NA	Gubat_Market	NA	NA	NA	96
+Spratelloides_delicatulus	Sde	Contemporary	NA	Taytay, Palawan	NA	NA	NA	96
+Stethojulis interrupta	NA	Albatross	Albatross	Pandanon_Id	Pandanon_Id	Pnd	NA	25
+Stethojulis_interrupta	NA	Contemporary	Contemporary	Pandanon_Island	Pandanon_Id	Pnd	NA	96
+Tylosorus_crocodilus	NA	Contemporary	NA	Jolo	NA	NA	NA	23
+Tylosurus_crocodilus	NA	NA	Albatross	NA	Teomabal_Island	Jol	NA	21
+Zenarchopterus_dispar	NA	Contemporary	Contemporary	Dupon_Bay	Dupon Bay, Isabel, Leyte	NA	NA	83
+Zoramia_perlita	NA	Contemporary	NA	Masinloc	NA	NA	NA	8
+Zoramia_viridiventer	Zvi	Contemporary	NA	Masinloc	NA	NA	NA	8
